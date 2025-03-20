@@ -1,7 +1,6 @@
 <!DOCTYPE html>
-<html></html>
+<html>
 <head>
-    
     <title>REALISASI 2024 vs 2023 & GROWTH YoY</title>
     <script src="https://code.jscharting.com/latest/jscharting.js"></script>
     <style>
@@ -28,7 +27,6 @@
         #chartDiv {
             width: 100%;
             height: auto;
-            
             min-height: 100px;
             max-height: 700px;
             margin: 0 auto;
@@ -49,83 +47,58 @@
                 height: 500px;
             }
         }
-        
     </style>
-
-
-
     <script>
- 
-        // inisiasi menggunakan data Real
-        async function fetchData() {
-        try {
-            // Ambil data dari file JSON
+        async function fetchData(selectedUnit) {
             const response = await fetch('data_compare_YoY.json');
-            const jsonData = await response.json();  // Harus pakai await
+            if (!response.ok) {
+                console.error('Gagal memuat file JSON');
+                return;
+            }
+            const jsonData = await response.json();
 
-            // Filter berdasarkan UNIT = 'UIDRKR'
-            const filteredData = jsonData.filter(item => item.UNIT === 'UIDRKR');
+            const filteredData = jsonData.filter(item => item.UNIT === selectedUnit);
 
-            // Mapping ke format yang diinginkan
             const data = filteredData.map(item => ({
                 name: item["Nama Bulan"],
-                realisasi2024: item["Real Bulanan_y"],  // Akses harus item.Bulanan_y
-                realisasi2023: item["Real Bulanan_x"],  // Akses harus item.Bulanan_x
+                realisasi2024: item["Real Bulanan_y"],
+                realisasi2023: item["Real Bulanan_x"],
                 growth: item.Growth
             }));
 
-            console.log(data); // Debugging output
-            renderChart(data);
-
-        } catch (error) {
-            console.error("Error fetching data:", error);
-        }
-    }
-
-    // Panggil fungsi
-    
-
-    function renderChart(data) {
-        
-        // Konfigurasi Chart
-        JSC.chart('chartDiv', {
-            debug: true,
-            type: 'line',
-            title_label: {
-                    text: `REALISASI DAN GROWTH PENJUALAN`,
+            JSC.chart('chartDiv', {
+                debug: true,
+                type: 'line',
+                title_label: {
+                    text: `REALISASI DAN GROWTH PENJUALAN - ${selectedUnit}`,
                     style_fontSize: 17,
                     style_fontWeight: 'bold',
                     align: 'center',
-                    margin_bottom: 30
+                    margin_bottom: 30,
                 },
-            legend: {
+                legend: {
                     template: '%icon,%name',
                     position: 'inside top right',
                     offset: '0,-25',
                     reversed: true
-            },
-            
-            yAxis: [
-                {
-                    id: 'y1',
-                    label_text: 'Realisasi'
                 },
-                {
-                    id: 'y2',
-                    label_text: 'Growth YoY (%)',
-                    
-                    orientation: 'right'
-                }
-            ],
-            series: [
+                yAxis: [
+                    { id: 'y1', label_text: 'Realisasi' },
+                    { id: 'y2', label_text: 'Growth YoY (%)', orientation: 'right' }
+                ],
+                series: makeSeries(data)
+            });
+        }
+
+        function makeSeries(data) {
+            return [
                 {
                     name: 'Growth YoY',
                     type: 'column',
                     yAxis: 'y2',
-                    opacity: 0.5, // Transparan agar tidak menutupi line chart
-                    zIndex: -1, // Menempatkan bar di belakang line chart
-                    points: data.map(item => ({ x: item.name, y: item.growth })),
-                    
+                    opacity: 0.5,
+                    zIndex: -1,
+                    points: data.map(item => ({ x: item.name, y: item.growth }))
                 },
                 {
                     name: 'Realisasi 2023',
@@ -141,14 +114,37 @@
                     line_width: 2,
                     points: data.map(item => ({ x: item.name, y: item.realisasi2024 }))
                 }
-            ]
-        });
-    }
-    fetchData();
+            ];
+        }
+
+        async function initialize() {
+            const response = await fetch('data_compare_YoY.json');
+            const jsonData = await response.json();
+
+            const units = [...new Set(jsonData.map(item => item.UNIT))];
+            const select = document.getElementById('unitSelect');
+            units.forEach(unit => {
+                const option = document.createElement('option');
+                option.value = unit;
+                option.text = unit;
+                select.appendChild(option);
+            });
+
+            fetchData(units[0]);
+
+            select.addEventListener('change', function() {
+                fetchData(this.value);
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', initialize);
     </script>
 </head>
 <body>
     <div id="chartContainer">
         <div id="chartDiv"></div>
+        <label for="unitSelect">PILIH UNIT:</label>
+        <select id="unitSelect"></select>
+    </div>
 </body>
 </html>
