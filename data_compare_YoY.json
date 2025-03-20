@@ -1,0 +1,4106 @@
+[
+    {
+        "UNIT":"ULP KOTA TIMUR",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":38.279307789,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":40.723074542,
+        "Growth":6.0009387319
+    },
+    {
+        "UNIT":"ULP KOTA TIMUR",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":35.280922166,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":44.972591053,
+        "Growth":21.5501679136
+    },
+    {
+        "UNIT":"ULP KOTA TIMUR",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":41.745656332,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":45.296799602,
+        "Growth":7.8397222347
+    },
+    {
+        "UNIT":"ULP KOTA TIMUR",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":40.503068011,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":43.149252434,
+        "Growth":6.1326309814
+    },
+    {
+        "UNIT":"ULP KOTA TIMUR",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":43.135868446,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":46.537550278,
+        "Growth":7.3095421046
+    },
+    {
+        "UNIT":"ULP KOTA TIMUR",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":43.891867449,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":43.474535287,
+        "Growth":-0.9599462289
+    },
+    {
+        "UNIT":"ULP KOTA TIMUR",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":54.035595802,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":46.463226611,
+        "Growth":-16.2975534489
+    },
+    {
+        "UNIT":"ULP KOTA TIMUR",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":35.18199906,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":44.098093796,
+        "Growth":20.2187758438
+    },
+    {
+        "UNIT":"ULP KOTA TIMUR",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":42.525523981,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":43.610540104,
+        "Growth":2.4879676345
+    },
+    {
+        "UNIT":"ULP KOTA TIMUR",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":45.211720873,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":45.874698944,
+        "Growth":1.4451932901
+    },
+    {
+        "UNIT":"ULP KOTA TIMUR",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":41.879534331,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":42.411720511,
+        "Growth":1.2548092216
+    },
+    {
+        "UNIT":"ULP KOTA TIMUR",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":42.031867485,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":44.240681807,
+        "Growth":4.9927221548
+    },
+    {
+        "UNIT":"ULP KOTA BARAT",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":40.179257573,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":42.667535562,
+        "Growth":5.831782774
+    },
+    {
+        "UNIT":"ULP KOTA BARAT",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":37.75264532,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":41.574533834,
+        "Growth":9.1928595742
+    },
+    {
+        "UNIT":"ULP KOTA BARAT",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":41.319291919,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":46.079010343,
+        "Growth":10.3294718974
+    },
+    {
+        "UNIT":"ULP KOTA BARAT",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":40.874571225,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":43.695740067,
+        "Growth":6.4563933181
+    },
+    {
+        "UNIT":"ULP KOTA BARAT",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":45.038420546,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":46.977659726,
+        "Growth":4.1280029514
+    },
+    {
+        "UNIT":"ULP KOTA BARAT",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":43.94310973,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":44.51090242,
+        "Growth":1.2756261031
+    },
+    {
+        "UNIT":"ULP KOTA BARAT",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":44.630861875,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":47.512271415,
+        "Growth":6.0645585955
+    },
+    {
+        "UNIT":"ULP KOTA BARAT",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":44.823069415,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":46.906059061,
+        "Growth":4.4407688211
+    },
+    {
+        "UNIT":"ULP KOTA BARAT",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":43.765748291,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":45.777430119,
+        "Growth":4.394483969
+    },
+    {
+        "UNIT":"ULP KOTA BARAT",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":45.565932107,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":48.058149866,
+        "Growth":5.1858379192
+    },
+    {
+        "UNIT":"ULP KOTA BARAT",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":43.18316591,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":45.17940057,
+        "Growth":4.418462031
+    },
+    {
+        "UNIT":"ULP KOTA BARAT",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":43.477589793,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":46.413137291,
+        "Growth":6.3248202327
+    },
+    {
+        "UNIT":"ULP KAMPAR",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":17.696547951,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":19.235985299,
+        "Growth":8.0029035377
+    },
+    {
+        "UNIT":"ULP KAMPAR",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":16.692795715,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":18.755289103,
+        "Growth":10.9968626806
+    },
+    {
+        "UNIT":"ULP KAMPAR",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":18.649402895,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":21.311307833,
+        "Growth":12.4905752329
+    },
+    {
+        "UNIT":"ULP KAMPAR",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":18.481969958,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":20.102903603,
+        "Growth":8.0631817026
+    },
+    {
+        "UNIT":"ULP KAMPAR",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":19.929791976,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":21.932152746,
+        "Growth":9.1297958444
+    },
+    {
+        "UNIT":"ULP KAMPAR",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":19.916725365,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":20.620411323,
+        "Growth":3.4125699385
+    },
+    {
+        "UNIT":"ULP KAMPAR",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":20.061891259,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":21.97665051,
+        "Growth":8.7126982801
+    },
+    {
+        "UNIT":"ULP KAMPAR",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":20.143168393,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":22.060379117,
+        "Growth":8.6907424112
+    },
+    {
+        "UNIT":"ULP KAMPAR",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":20.107644396,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":21.957225747,
+        "Growth":8.4235657651
+    },
+    {
+        "UNIT":"ULP KAMPAR",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":21.106468987,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":22.863293477,
+        "Growth":7.6840394485
+    },
+    {
+        "UNIT":"ULP KAMPAR",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":19.938024085,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":21.775357014,
+        "Growth":8.4376707478
+    },
+    {
+        "UNIT":"ULP KAMPAR",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":20.10254495,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":23.15511594,
+        "Growth":13.1831384386
+    },
+    {
+        "UNIT":"ULP LIPAT KAIN",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":8.594925786,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":8.88335353,
+        "Growth":3.246834014
+    },
+    {
+        "UNIT":"ULP LIPAT KAIN",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":7.878749163,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":8.740003632,
+        "Growth":9.8541660309
+    },
+    {
+        "UNIT":"ULP LIPAT KAIN",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":8.719294933,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":9.559585897,
+        "Growth":8.7900351862
+    },
+    {
+        "UNIT":"ULP LIPAT KAIN",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":8.818299254,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":9.404015863,
+        "Growth":6.2283668757
+    },
+    {
+        "UNIT":"ULP LIPAT KAIN",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":9.161844876,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":9.9156398,
+        "Growth":7.6020805435
+    },
+    {
+        "UNIT":"ULP LIPAT KAIN",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":8.858048452,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":9.611129861,
+        "Growth":7.835513825
+    },
+    {
+        "UNIT":"ULP LIPAT KAIN",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":9.188273603,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":10.078453407,
+        "Growth":8.8325040366
+    },
+    {
+        "UNIT":"ULP LIPAT KAIN",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":9.194402764,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":10.22862595,
+        "Growth":10.1110666384
+    },
+    {
+        "UNIT":"ULP LIPAT KAIN",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":9.106331542,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":9.915418664,
+        "Growth":8.1598886483
+    },
+    {
+        "UNIT":"ULP LIPAT KAIN",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":9.217927985,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":10.179247414,
+        "Growth":9.4439145636
+    },
+    {
+        "UNIT":"ULP LIPAT KAIN",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":8.882055009,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":9.972506389,
+        "Growth":10.9345769004
+    },
+    {
+        "UNIT":"ULP LIPAT KAIN",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":8.98665535,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":10.681591739,
+        "Growth":15.8678259796
+    },
+    {
+        "UNIT":"ULP UJUNG BATU",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":9.725246998,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":10.81107084,
+        "Growth":10.0436289621
+    },
+    {
+        "UNIT":"ULP UJUNG BATU",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":8.779343233,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":10.652640264,
+        "Growth":17.5852838787
+    },
+    {
+        "UNIT":"ULP UJUNG BATU",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":9.888509692,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":11.663666412,
+        "Growth":15.2195429576
+    },
+    {
+        "UNIT":"ULP UJUNG BATU",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":10.181901425,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":11.355766327,
+        "Growth":10.3371702816
+    },
+    {
+        "UNIT":"ULP UJUNG BATU",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":10.737367251,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":12.167955295,
+        "Growth":11.7570126559
+    },
+    {
+        "UNIT":"ULP UJUNG BATU",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":10.472050511,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":11.604564036,
+        "Growth":9.7592078555
+    },
+    {
+        "UNIT":"ULP UJUNG BATU",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":11.095448643,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":12.065429358,
+        "Growth":8.0393385616
+    },
+    {
+        "UNIT":"ULP UJUNG BATU",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":10.708062124,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":12.065585164,
+        "Growth":11.2511993538
+    },
+    {
+        "UNIT":"ULP UJUNG BATU",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":10.286507009,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":11.66549394,
+        "Growth":11.8210762278
+    },
+    {
+        "UNIT":"ULP UJUNG BATU",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":10.765525419,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":12.232514406,
+        "Growth":11.9925383965
+    },
+    {
+        "UNIT":"ULP UJUNG BATU",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":10.657265714,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":11.710480534,
+        "Growth":8.9937796911
+    },
+    {
+        "UNIT":"ULP UJUNG BATU",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":10.940424759,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":12.347347087,
+        "Growth":11.3945312956
+    },
+    {
+        "UNIT":"ULP SIMPANG TIGA",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":35.221880877,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":36.87675163,
+        "Growth":4.487571925
+    },
+    {
+        "UNIT":"ULP SIMPANG TIGA",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":29.203709821,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":34.337321002,
+        "Growth":14.9505291362
+    },
+    {
+        "UNIT":"ULP SIMPANG TIGA",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":32.889003242,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":39.914757822,
+        "Growth":17.601897051
+    },
+    {
+        "UNIT":"ULP SIMPANG TIGA",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":33.790868087,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":35.605100109,
+        "Growth":5.0954273867
+    },
+    {
+        "UNIT":"ULP SIMPANG TIGA",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":40.035143374,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":39.5511894,
+        "Growth":-1.2236142107
+    },
+    {
+        "UNIT":"ULP SIMPANG TIGA",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":38.4955962,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":40.221211919,
+        "Growth":4.2903125905
+    },
+    {
+        "UNIT":"ULP SIMPANG TIGA",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":37.222719645,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":41.45226123,
+        "Growth":10.2034037698
+    },
+    {
+        "UNIT":"ULP SIMPANG TIGA",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":39.052377419,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":42.802275397,
+        "Growth":8.7609781097
+    },
+    {
+        "UNIT":"ULP SIMPANG TIGA",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":37.680771947,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":41.878811735,
+        "Growth":10.0242571699
+    },
+    {
+        "UNIT":"ULP SIMPANG TIGA",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":40.631192372,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":41.135127752,
+        "Growth":1.2250730885
+    },
+    {
+        "UNIT":"ULP SIMPANG TIGA",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":36.643177486,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":42.121918284,
+        "Growth":13.0068644098
+    },
+    {
+        "UNIT":"ULP SIMPANG TIGA",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":36.645115383,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":41.600247619,
+        "Growth":11.9113046667
+    },
+    {
+        "UNIT":"ULP RUMBAI",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":13.560695816,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":15.320680143,
+        "Growth":11.4876383462
+    },
+    {
+        "UNIT":"ULP RUMBAI",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":12.824677656,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":15.31268258,
+        "Growth":16.2480016875
+    },
+    {
+        "UNIT":"ULP RUMBAI",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":14.235313274,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":16.919961004,
+        "Growth":15.8667489208
+    },
+    {
+        "UNIT":"ULP RUMBAI",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":13.98035295,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":16.016482065,
+        "Growth":12.7127112354
+    },
+    {
+        "UNIT":"ULP RUMBAI",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":15.577189494,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":17.009267216,
+        "Growth":8.4193969312
+    },
+    {
+        "UNIT":"ULP RUMBAI",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":16.086279033,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":16.133083031,
+        "Growth":0.2901119266
+    },
+    {
+        "UNIT":"ULP RUMBAI",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":15.796857389,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":16.959939023,
+        "Growth":6.8578173095
+    },
+    {
+        "UNIT":"ULP RUMBAI",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":15.579666,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":17.030702754,
+        "Growth":8.5201225983
+    },
+    {
+        "UNIT":"ULP RUMBAI",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":15.635918137,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":16.608737526,
+        "Growth":5.8572747476
+    },
+    {
+        "UNIT":"ULP RUMBAI",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":16.128393218,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":17.260006833,
+        "Growth":6.556275591
+    },
+    {
+        "UNIT":"ULP RUMBAI",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":15.619974263,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":16.321831387,
+        "Growth":4.3001125754
+    },
+    {
+        "UNIT":"ULP RUMBAI",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":15.887550784,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":17.018474748,
+        "Growth":6.6452721571
+    },
+    {
+        "UNIT":"ULP PANAM",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":30.849455805,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":32.541663577,
+        "Growth":5.2001268097
+    },
+    {
+        "UNIT":"ULP PANAM",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":29.331132497,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":32.303691631,
+        "Growth":9.2019177497
+    },
+    {
+        "UNIT":"ULP PANAM",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":32.234665843,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":36.652995662,
+        "Growth":12.0544848769
+    },
+    {
+        "UNIT":"ULP PANAM",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":31.929693237,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":34.072221481,
+        "Growth":6.2881965157
+    },
+    {
+        "UNIT":"ULP PANAM",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":35.341347442,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":37.433882714,
+        "Growth":5.5899498537
+    },
+    {
+        "UNIT":"ULP PANAM",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":34.560826459,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":35.170706711,
+        "Growth":1.7340574274
+    },
+    {
+        "UNIT":"ULP PANAM",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":34.745434631,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":37.394712985,
+        "Growth":7.084633475
+    },
+    {
+        "UNIT":"ULP PANAM",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":35.02250515,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":37.048925769,
+        "Growth":5.4695799593
+    },
+    {
+        "UNIT":"ULP PANAM",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":34.878801923,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":36.583290323,
+        "Growth":4.6591992818
+    },
+    {
+        "UNIT":"ULP PANAM",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":36.3991308,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":38.373222398,
+        "Growth":5.1444509338
+    },
+    {
+        "UNIT":"ULP PANAM",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":34.552316903,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":35.910366654,
+        "Growth":3.7817763435
+    },
+    {
+        "UNIT":"ULP PANAM",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":33.670501724,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":37.319089749,
+        "Growth":9.7767337026
+    },
+    {
+        "UNIT":"ULP PERAWANG",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":7.133288662,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":7.898315752,
+        "Growth":9.685952221
+    },
+    {
+        "UNIT":"ULP PERAWANG",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":6.603465258,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":7.337158057,
+        "Growth":9.9996864358
+    },
+    {
+        "UNIT":"ULP PERAWANG",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":7.337127732,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":8.502502595,
+        "Growth":13.7062570694
+    },
+    {
+        "UNIT":"ULP PERAWANG",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":7.397795462,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":7.8260562,
+        "Growth":5.472242047
+    },
+    {
+        "UNIT":"ULP PERAWANG",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":7.846430071,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":8.367267061,
+        "Growth":6.2246966208
+    },
+    {
+        "UNIT":"ULP PERAWANG",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":7.787203207,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":7.931475151,
+        "Growth":1.8189799659
+    },
+    {
+        "UNIT":"ULP PERAWANG",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":7.907964962,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":8.56821415,
+        "Growth":7.7057969892
+    },
+    {
+        "UNIT":"ULP PERAWANG",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":7.834719323,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":8.463941404,
+        "Growth":7.4341497769
+    },
+    {
+        "UNIT":"ULP PERAWANG",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":7.908244752,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":8.176526718,
+        "Growth":3.2811238225
+    },
+    {
+        "UNIT":"ULP PERAWANG",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":8.321677257,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":8.422133041,
+        "Growth":1.1927594056
+    },
+    {
+        "UNIT":"ULP PERAWANG",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":7.70661926,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":8.130243202,
+        "Growth":5.2104707261
+    },
+    {
+        "UNIT":"ULP PERAWANG",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":7.921238413,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":8.362132919,
+        "Growth":5.2725125308
+    },
+    {
+        "UNIT":"ULP PASIR PANGARAIAN",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":12.71080817,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":13.435468556,
+        "Growth":5.3936368723
+    },
+    {
+        "UNIT":"ULP PASIR PANGARAIAN",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":11.873924842,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":13.508345083,
+        "Growth":12.0993373426
+    },
+    {
+        "UNIT":"ULP PASIR PANGARAIAN",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":13.01766121,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":15.035790775,
+        "Growth":13.4221711063
+    },
+    {
+        "UNIT":"ULP PASIR PANGARAIAN",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":13.358476422,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":14.845317537,
+        "Growth":10.0155561597
+    },
+    {
+        "UNIT":"ULP PASIR PANGARAIAN",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":13.606465261,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":15.489377797,
+        "Growth":12.1561534664
+    },
+    {
+        "UNIT":"ULP PASIR PANGARAIAN",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":13.419358067,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":14.904120338,
+        "Growth":9.9620926115
+    },
+    {
+        "UNIT":"ULP PASIR PANGARAIAN",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":13.910801987,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":15.713528754,
+        "Growth":11.4724502384
+    },
+    {
+        "UNIT":"ULP PASIR PANGARAIAN",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":14.012131795,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":15.620393006,
+        "Growth":10.2959074742
+    },
+    {
+        "UNIT":"ULP PASIR PANGARAIAN",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":13.453621607,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":14.897099159,
+        "Growth":9.6896552583
+    },
+    {
+        "UNIT":"ULP PASIR PANGARAIAN",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":14.142865475,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":15.797238702,
+        "Growth":10.4725468685
+    },
+    {
+        "UNIT":"ULP PASIR PANGARAIAN",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":13.510942679,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":15.008587351,
+        "Growth":9.9785851724
+    },
+    {
+        "UNIT":"ULP PASIR PANGARAIAN",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":13.915042715,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":15.624711967,
+        "Growth":10.9420849204
+    },
+    {
+        "UNIT":"ULP SIAK SRI INDRAPURA",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":9.55728807,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":10.426478991,
+        "Growth":8.3363801121
+    },
+    {
+        "UNIT":"ULP SIAK SRI INDRAPURA",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":8.905807877,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":10.323360037,
+        "Growth":13.7314997725
+    },
+    {
+        "UNIT":"ULP SIAK SRI INDRAPURA",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":9.964550307,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":11.390518142,
+        "Growth":12.5189022766
+    },
+    {
+        "UNIT":"ULP SIAK SRI INDRAPURA",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":10.127375282,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":11.061928734,
+        "Growth":8.4483770821
+    },
+    {
+        "UNIT":"ULP SIAK SRI INDRAPURA",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":10.764736625,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":11.607794045,
+        "Growth":7.2628564629
+    },
+    {
+        "UNIT":"ULP SIAK SRI INDRAPURA",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":10.402468214,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":10.88415745,
+        "Growth":4.4255996683
+    },
+    {
+        "UNIT":"ULP SIAK SRI INDRAPURA",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":10.46447734,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":11.557063447,
+        "Growth":9.4538384427
+    },
+    {
+        "UNIT":"ULP SIAK SRI INDRAPURA",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":10.734606351,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":11.393354474,
+        "Growth":5.7818627912
+    },
+    {
+        "UNIT":"ULP SIAK SRI INDRAPURA",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":10.445341336,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":11.230630967,
+        "Growth":6.992391018
+    },
+    {
+        "UNIT":"ULP SIAK SRI INDRAPURA",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":10.757001874,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":11.574625206,
+        "Growth":7.0639292197
+    },
+    {
+        "UNIT":"ULP SIAK SRI INDRAPURA",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":10.431644783,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":11.062254942,
+        "Growth":5.7005570953
+    },
+    {
+        "UNIT":"ULP SIAK SRI INDRAPURA",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":10.619212476,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":11.532245341,
+        "Growth":7.9172167952
+    },
+    {
+        "UNIT":"ULP PANGKALAN KERINCI",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":17.035374891,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":18.707667052,
+        "Growth":8.9390737838
+    },
+    {
+        "UNIT":"ULP PANGKALAN KERINCI",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":15.949986905,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":18.477728201,
+        "Growth":13.6799354796
+    },
+    {
+        "UNIT":"ULP PANGKALAN KERINCI",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":17.788039466,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":20.558348837,
+        "Growth":13.4753495671
+    },
+    {
+        "UNIT":"ULP PANGKALAN KERINCI",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":17.902273158,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":19.491526665,
+        "Growth":8.1535609515
+    },
+    {
+        "UNIT":"ULP PANGKALAN KERINCI",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":18.707423874,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":20.952529591,
+        "Growth":10.7152012708
+    },
+    {
+        "UNIT":"ULP PANGKALAN KERINCI",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":18.614608153,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":19.945945244,
+        "Growth":6.6747254879
+    },
+    {
+        "UNIT":"ULP PANGKALAN KERINCI",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":19.024027819,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":21.020521166,
+        "Growth":9.4978299122
+    },
+    {
+        "UNIT":"ULP PANGKALAN KERINCI",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":19.499167485,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":21.029768568,
+        "Growth":7.278259283
+    },
+    {
+        "UNIT":"ULP PANGKALAN KERINCI",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":18.95900452,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":20.465052294,
+        "Growth":7.3591200861
+    },
+    {
+        "UNIT":"ULP PANGKALAN KERINCI",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":19.574916548,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":21.256570679,
+        "Growth":7.9112202829
+    },
+    {
+        "UNIT":"ULP PANGKALAN KERINCI",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":18.896817263,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":20.616670024,
+        "Growth":8.3420492204
+    },
+    {
+        "UNIT":"ULP PANGKALAN KERINCI",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":19.476298741,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":21.289321368,
+        "Growth":8.5161128232
+    },
+    {
+        "UNIT":"ULP BANGKINANG",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":15.916677087,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":16.764705331,
+        "Growth":5.0584142534
+    },
+    {
+        "UNIT":"ULP BANGKINANG",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":15.050650111,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":16.543943541,
+        "Growth":9.0262241666
+    },
+    {
+        "UNIT":"ULP BANGKINANG",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":16.785299716,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":18.58296402,
+        "Growth":9.6737221364
+    },
+    {
+        "UNIT":"ULP BANGKINANG",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":17.002565145,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":18.333287309,
+        "Growth":7.2585027528
+    },
+    {
+        "UNIT":"ULP BANGKINANG",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":17.604822605,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":19.417595966,
+        "Growth":9.335725
+    },
+    {
+        "UNIT":"ULP BANGKINANG",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":17.262445539,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":18.392237337,
+        "Growth":6.1427643483
+    },
+    {
+        "UNIT":"ULP BANGKINANG",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":17.518922833,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":19.068735228,
+        "Growth":8.1275049261
+    },
+    {
+        "UNIT":"ULP BANGKINANG",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":17.825348975,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":19.247068701,
+        "Growth":7.3866818272
+    },
+    {
+        "UNIT":"ULP BANGKINANG",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":17.292577897,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":18.692477161,
+        "Growth":7.4891051194
+    },
+    {
+        "UNIT":"ULP BANGKINANG",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":18.125138576,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":19.126650975,
+        "Growth":5.2362141198
+    },
+    {
+        "UNIT":"ULP BANGKINANG",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":17.222954999,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":18.453514187,
+        "Growth":6.668427355
+    },
+    {
+        "UNIT":"ULP BANGKINANG",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":17.167793398,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":19.63837928,
+        "Growth":12.580396003
+    },
+    {
+        "UNIT":"UP3 PEKANBARU",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":256.460755475,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":205.162167249,
+        "Growth":-25.0039219774
+    },
+    {
+        "UNIT":"UP3 PEKANBARU",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":236.127810564,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":204.639066395,
+        "Growth":-15.3874549585
+    },
+    {
+        "UNIT":"UP3 PEKANBARU",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":264.573816561,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":225.314894007,
+        "Growth":-17.4240245977
+    },
+    {
+        "UNIT":"UP3 PEKANBARU",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":264.349209616,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":210.918307755,
+        "Growth":-25.3325102167
+    },
+    {
+        "UNIT":"UP3 PEKANBARU",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":287.486851841,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":228.437140031,
+        "Growth":-25.84943578
+    },
+    {
+        "UNIT":"UP3 PEKANBARU",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":283.710586379,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":218.272017213,
+        "Growth":-29.9802833187
+    },
+    {
+        "UNIT":"UP3 PEKANBARU",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":295.603277788,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":230.928210027,
+        "Growth":-28.0065686879
+    },
+    {
+        "UNIT":"UP3 PEKANBARU",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":279.611224254,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":228.773121223,
+        "Growth":-22.2220612103
+    },
+    {
+        "UNIT":"UP3 PEKANBARU",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":282.046037338,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":224.331019786,
+        "Growth":-25.7276134201
+    },
+    {
+        "UNIT":"UP3 PEKANBARU",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":295.947891491,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":231.954534719,
+        "Growth":-27.5887500322
+    },
+    {
+        "UNIT":"UP3 PEKANBARU",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":279.124492685,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":221.754405574,
+        "Growth":-25.8710021848
+    },
+    {
+        "UNIT":"UP3 PEKANBARU",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":280.841835971,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":227.775330842,
+        "Growth":-23.297740336
+    },
+    {
+        "UNIT":"ULP DURI",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":214.867090416,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":243.201367638,
+        "Growth":11.6505418934
+    },
+    {
+        "UNIT":"ULP DURI",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":200.020722358,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":223.002783659,
+        "Growth":10.3057284416
+    },
+    {
+        "UNIT":"ULP DURI",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":221.533977424,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":245.766039972,
+        "Growth":9.8598091709
+    },
+    {
+        "UNIT":"ULP DURI",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":218.069008109,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":235.064405814,
+        "Growth":7.2301025951
+    },
+    {
+        "UNIT":"ULP DURI",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":230.444521218,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":242.807091503,
+        "Growth":5.091519448
+    },
+    {
+        "UNIT":"ULP DURI",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":215.547769577,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":220.41371584,
+        "Growth":2.2076422261
+    },
+    {
+        "UNIT":"ULP DURI",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":192.167341468,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":210.393341774,
+        "Growth":8.6628218138
+    },
+    {
+        "UNIT":"ULP DURI",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":187.347044251,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":248.16915957,
+        "Growth":24.5083294896
+    },
+    {
+        "UNIT":"ULP DURI",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":204.755852958,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":237.408893743,
+        "Growth":13.7539248299
+    },
+    {
+        "UNIT":"ULP DURI",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":235.349556376,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":238.80396369,
+        "Growth":1.4465452167
+    },
+    {
+        "UNIT":"ULP DURI",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":225.70046899,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":238.386105973,
+        "Growth":5.3214665893
+    },
+    {
+        "UNIT":"ULP DURI",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":237.20591938,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":246.901777795,
+        "Growth":3.9270103689
+    },
+    {
+        "UNIT":"ULP BAGANSIAPI-API",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":9.555098594,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":10.107063586,
+        "Growth":5.4611805625
+    },
+    {
+        "UNIT":"ULP BAGANSIAPI-API",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":8.908502782,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":10.155724854,
+        "Growth":12.2809754097
+    },
+    {
+        "UNIT":"ULP BAGANSIAPI-API",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":9.883475081,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":11.091780891,
+        "Growth":10.8937042831
+    },
+    {
+        "UNIT":"ULP BAGANSIAPI-API",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":10.246515536,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":10.849712166,
+        "Growth":5.5595634315
+    },
+    {
+        "UNIT":"ULP BAGANSIAPI-API",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":10.408689798,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":11.201114115,
+        "Growth":7.074513382
+    },
+    {
+        "UNIT":"ULP BAGANSIAPI-API",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":10.255391491,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":10.811733976,
+        "Growth":5.1457285782
+    },
+    {
+        "UNIT":"ULP BAGANSIAPI-API",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":10.408736182,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":11.118313466,
+        "Growth":6.3820586294
+    },
+    {
+        "UNIT":"ULP BAGANSIAPI-API",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":10.386881337,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":11.144367651,
+        "Growth":6.797032705
+    },
+    {
+        "UNIT":"ULP BAGANSIAPI-API",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":10.068921341,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":10.874597357,
+        "Growth":7.4087893974
+    },
+    {
+        "UNIT":"ULP BAGANSIAPI-API",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":10.382438327,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":11.166530187,
+        "Growth":7.0218039702
+    },
+    {
+        "UNIT":"ULP BAGANSIAPI-API",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":9.974710076,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":10.737225655,
+        "Growth":7.1016070957
+    },
+    {
+        "UNIT":"ULP BAGANSIAPI-API",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":10.259972362,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":10.992280041,
+        "Growth":6.6620180369
+    },
+    {
+        "UNIT":"ULP BENGKALIS",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":13.668876449,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":14.368501578,
+        "Growth":4.8691585911
+    },
+    {
+        "UNIT":"ULP BENGKALIS",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":12.781895766,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":13.697021177,
+        "Growth":6.6812002345
+    },
+    {
+        "UNIT":"ULP BENGKALIS",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":14.03442657,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":15.378033808,
+        "Growth":8.7371848363
+    },
+    {
+        "UNIT":"ULP BENGKALIS",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":14.490685232,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":14.940309909,
+        "Growth":3.0094735634
+    },
+    {
+        "UNIT":"ULP BENGKALIS",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":15.165714593,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":15.44412933,
+        "Growth":1.8027221286
+    },
+    {
+        "UNIT":"ULP BENGKALIS",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":14.51767948,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":15.495162464,
+        "Growth":6.3083106503
+    },
+    {
+        "UNIT":"ULP BENGKALIS",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":14.733276256,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":15.987008805,
+        "Growth":7.8421958998
+    },
+    {
+        "UNIT":"ULP BENGKALIS",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":14.82064323,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":15.718429783,
+        "Growth":5.7116809083
+    },
+    {
+        "UNIT":"ULP BENGKALIS",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":14.41915477,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":14.874147601,
+        "Growth":3.058950625
+    },
+    {
+        "UNIT":"ULP BENGKALIS",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":14.630264286,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":15.797526499,
+        "Growth":7.3888922615
+    },
+    {
+        "UNIT":"ULP BENGKALIS",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":14.256362655,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":15.358923777,
+        "Growth":7.1786352873
+    },
+    {
+        "UNIT":"ULP BENGKALIS",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":14.490386936,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":16.066206027,
+        "Growth":9.8082838497
+    },
+    {
+        "UNIT":"ULP SELATPANJANG",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":7.749570642,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":7.967168923,
+        "Growth":2.7311869888
+    },
+    {
+        "UNIT":"ULP SELATPANJANG",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":7.238375047,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":8.424717847,
+        "Growth":14.0816917735
+    },
+    {
+        "UNIT":"ULP SELATPANJANG",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":8.014203112,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":9.333724788,
+        "Growth":14.137139309
+    },
+    {
+        "UNIT":"ULP SELATPANJANG",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":8.530441628,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":9.459960555,
+        "Growth":9.8258224397
+    },
+    {
+        "UNIT":"ULP SELATPANJANG",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":8.571209168,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":9.456311429,
+        "Growth":9.3599102319
+    },
+    {
+        "UNIT":"ULP SELATPANJANG",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":8.269775317,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":9.159162127,
+        "Growth":9.7103512054
+    },
+    {
+        "UNIT":"ULP SELATPANJANG",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":8.318834284,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":9.096534231,
+        "Growth":8.5494093382
+    },
+    {
+        "UNIT":"ULP SELATPANJANG",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":8.280524416,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":8.661231447,
+        "Growth":4.3955300505
+    },
+    {
+        "UNIT":"ULP SELATPANJANG",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":8.08636144,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":8.671057559,
+        "Growth":6.7430773585
+    },
+    {
+        "UNIT":"ULP SELATPANJANG",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":8.450805212,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":8.977573396,
+        "Growth":5.8676009737
+    },
+    {
+        "UNIT":"ULP SELATPANJANG",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":8.129736077,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":9.498145233,
+        "Growth":14.4071197316
+    },
+    {
+        "UNIT":"ULP SELATPANJANG",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":9.1662185,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":9.084542647,
+        "Growth":-0.8990640055
+    },
+    {
+        "UNIT":"ULP DUMAI KOTA",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":79.510641736,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":75.639802128,
+        "Growth":-5.117463953
+    },
+    {
+        "UNIT":"ULP DUMAI KOTA",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":73.350154444,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":72.326040504,
+        "Growth":-1.415968485
+    },
+    {
+        "UNIT":"ULP DUMAI KOTA",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":75.721750511,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":78.324272086,
+        "Growth":3.3227523291
+    },
+    {
+        "UNIT":"ULP DUMAI KOTA",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":72.632673923,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":72.705652559,
+        "Growth":0.1003754638
+    },
+    {
+        "UNIT":"ULP DUMAI KOTA",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":82.854622871,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":78.968486403,
+        "Growth":-4.9211231531
+    },
+    {
+        "UNIT":"ULP DUMAI KOTA",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":79.665047663,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":73.625531281,
+        "Growth":-8.2030190844
+    },
+    {
+        "UNIT":"ULP DUMAI KOTA",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":81.968179989,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":78.587532456,
+        "Growth":-4.3017606322
+    },
+    {
+        "UNIT":"ULP DUMAI KOTA",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":83.810996025,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":76.786326833,
+        "Growth":-9.14833341
+    },
+    {
+        "UNIT":"ULP DUMAI KOTA",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":78.096498999,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":79.125510178,
+        "Growth":1.3004796768
+    },
+    {
+        "UNIT":"ULP DUMAI KOTA",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":81.889769132,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":84.052286261,
+        "Growth":2.5728236853
+    },
+    {
+        "UNIT":"ULP DUMAI KOTA",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":82.872289896,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":81.15963375,
+        "Growth":-2.1102314868
+    },
+    {
+        "UNIT":"ULP DUMAI KOTA",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":75.039596602,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":85.238559795,
+        "Growth":11.9651988695
+    },
+    {
+        "UNIT":"ULP BAGAN BATU",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":17.781537176,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":19.055251818,
+        "Growth":6.6843233255
+    },
+    {
+        "UNIT":"ULP BAGAN BATU",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":16.580854196,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":19.142662963,
+        "Growth":13.3827188618
+    },
+    {
+        "UNIT":"ULP BAGAN BATU",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":19.178364113,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":21.379132541,
+        "Growth":10.2940024521
+    },
+    {
+        "UNIT":"ULP BAGAN BATU",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":18.695377923,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":20.694415336,
+        "Growth":9.6597916904
+    },
+    {
+        "UNIT":"ULP BAGAN BATU",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":19.525322595,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":21.655239127,
+        "Growth":9.8355715192
+    },
+    {
+        "UNIT":"ULP BAGAN BATU",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":19.488129281,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":20.652765948,
+        "Growth":5.6391316782
+    },
+    {
+        "UNIT":"ULP BAGAN BATU",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":19.792119711,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":21.708020369,
+        "Growth":8.8257732646
+    },
+    {
+        "UNIT":"ULP BAGAN BATU",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":19.939099721,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":21.501969508,
+        "Growth":7.2684959693
+    },
+    {
+        "UNIT":"ULP BAGAN BATU",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":19.210031229,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":20.824411207,
+        "Growth":7.7523439292
+    },
+    {
+        "UNIT":"ULP BAGAN BATU",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":19.791480396,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":21.581695019,
+        "Growth":8.2950603343
+    },
+    {
+        "UNIT":"ULP BAGAN BATU",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":19.035085646,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":20.887296702,
+        "Growth":8.8676437283
+    },
+    {
+        "UNIT":"ULP BAGAN BATU",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":19.614351284,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":21.569740094,
+        "Growth":9.065425923
+    },
+    {
+        "UNIT":"UP3 DUMAI",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":343.132815013,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":370.339155671,
+        "Growth":7.3463311242
+    },
+    {
+        "UNIT":"UP3 DUMAI",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":318.880504593,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":346.748951004,
+        "Growth":8.0370672587
+    },
+    {
+        "UNIT":"UP3 DUMAI",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":348.366196811,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":381.272984086,
+        "Growth":8.63076815
+    },
+    {
+        "UNIT":"UP3 DUMAI",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":342.664702351,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":363.714456339,
+        "Growth":5.7874394655
+    },
+    {
+        "UNIT":"UP3 DUMAI",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":366.970080243,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":379.532371907,
+        "Growth":3.3099394397
+    },
+    {
+        "UNIT":"UP3 DUMAI",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":347.743792809,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":350.158071636,
+        "Growth":0.6894825573
+    },
+    {
+        "UNIT":"UP3 DUMAI",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":327.38848789,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":346.890751101,
+        "Growth":5.622018791
+    },
+    {
+        "UNIT":"UP3 DUMAI",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":324.58518898,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":381.981484792,
+        "Growth":15.0259366218
+    },
+    {
+        "UNIT":"UP3 DUMAI",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":334.636820737,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":371.778617645,
+        "Growth":9.9902993731
+    },
+    {
+        "UNIT":"UP3 DUMAI",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":370.494313729,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":380.379575052,
+        "Growth":2.5987886762
+    },
+    {
+        "UNIT":"UP3 DUMAI",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":359.96865334,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":376.02733109,
+        "Growth":4.2706145065
+    },
+    {
+        "UNIT":"UP3 DUMAI",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":365.776445064,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":389.853106399,
+        "Growth":6.175829034
+    },
+    {
+        "UNIT":"ULP BINTAN CENTER",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":13.292602353,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":13.934455694,
+        "Growth":4.6062318837
+    },
+    {
+        "UNIT":"ULP BINTAN CENTER",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":12.255997307,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":14.298863763,
+        "Growth":14.2869146099
+    },
+    {
+        "UNIT":"ULP BINTAN CENTER",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":13.313167153,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":15.905500017,
+        "Growth":16.2983424679
+    },
+    {
+        "UNIT":"ULP BINTAN CENTER",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":13.934464748,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":15.209674749,
+        "Growth":8.3842029632
+    },
+    {
+        "UNIT":"ULP BINTAN CENTER",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":15.331477425,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":15.909652643,
+        "Growth":3.6341159105
+    },
+    {
+        "UNIT":"ULP BINTAN CENTER",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":15.016841793,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":15.444626868,
+        "Growth":2.7697987051
+    },
+    {
+        "UNIT":"ULP BINTAN CENTER",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":14.933370438,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":16.199313391,
+        "Growth":7.8147938894
+    },
+    {
+        "UNIT":"ULP BINTAN CENTER",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":15.221290917,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":16.14067289,
+        "Growth":5.6960572788
+    },
+    {
+        "UNIT":"ULP BINTAN CENTER",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":15.040114951,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":15.803013351,
+        "Growth":4.8275501833
+    },
+    {
+        "UNIT":"ULP BINTAN CENTER",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":15.718232237,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":16.003863775,
+        "Growth":1.7847661166
+    },
+    {
+        "UNIT":"ULP BINTAN CENTER",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":14.763217255,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":15.221820839,
+        "Growth":3.0128037168
+    },
+    {
+        "UNIT":"ULP BINTAN CENTER",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":14.645951168,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":16.079979756,
+        "Growth":8.9180994613
+    },
+    {
+        "UNIT":"ULP KIJANG",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":8.898572276,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":8.839344842,
+        "Growth":-0.6700432561
+    },
+    {
+        "UNIT":"ULP KIJANG",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":7.999548672,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":8.859853601,
+        "Growth":9.7101483585
+    },
+    {
+        "UNIT":"ULP KIJANG",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":8.847843937,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":9.750247648,
+        "Growth":9.2551875971
+    },
+    {
+        "UNIT":"ULP KIJANG",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":8.9954989,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":9.512792652,
+        "Growth":5.4378747748
+    },
+    {
+        "UNIT":"ULP KIJANG",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":9.704402897,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":9.966131463,
+        "Growth":2.626180148
+    },
+    {
+        "UNIT":"ULP KIJANG",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":9.341584762,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":9.681256426,
+        "Growth":3.5085493974
+    },
+    {
+        "UNIT":"ULP KIJANG",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":9.338325404,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":10.231012716,
+        "Growth":8.7253074234
+    },
+    {
+        "UNIT":"ULP KIJANG",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":9.637208206,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":10.404473698,
+        "Growth":7.37438062
+    },
+    {
+        "UNIT":"ULP KIJANG",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":9.360413556,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":9.798636288,
+        "Growth":4.4722828679
+    },
+    {
+        "UNIT":"ULP KIJANG",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":9.992345853,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":10.077032703,
+        "Growth":0.8403947124
+    },
+    {
+        "UNIT":"ULP KIJANG",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":9.364670258,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":9.445253103,
+        "Growth":0.8531570739
+    },
+    {
+        "UNIT":"ULP KIJANG",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":9.376876069,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":10.179410247,
+        "Growth":7.8838965964
+    },
+    {
+        "UNIT":"ULP TANJUNG UBAN",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":11.501913919,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":12.300388438,
+        "Growth":6.4914577538
+    },
+    {
+        "UNIT":"ULP TANJUNG UBAN",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":10.532989698,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":12.267095917,
+        "Growth":14.1362408082
+    },
+    {
+        "UNIT":"ULP TANJUNG UBAN",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":11.748768126,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":13.710955452,
+        "Growth":14.3110911043
+    },
+    {
+        "UNIT":"ULP TANJUNG UBAN",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":11.605126697,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":12.756037109,
+        "Growth":9.0224761983
+    },
+    {
+        "UNIT":"ULP TANJUNG UBAN",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":12.023328452,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":13.731453561,
+        "Growth":12.4395068695
+    },
+    {
+        "UNIT":"ULP TANJUNG UBAN",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":12.106765743,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":13.44012583,
+        "Growth":9.9207410992
+    },
+    {
+        "UNIT":"ULP TANJUNG UBAN",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":12.319741184,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":14.034896796,
+        "Growth":12.2206499765
+    },
+    {
+        "UNIT":"ULP TANJUNG UBAN",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":12.505104865,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":13.424437178,
+        "Growth":6.848200046
+    },
+    {
+        "UNIT":"ULP TANJUNG UBAN",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":12.194243321,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":13.223437832,
+        "Growth":7.7831084781
+    },
+    {
+        "UNIT":"ULP TANJUNG UBAN",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":12.867414539,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":13.919313334,
+        "Growth":7.5571170054
+    },
+    {
+        "UNIT":"ULP TANJUNG UBAN",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":12.368640448,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":12.678418484,
+        "Growth":2.4433491953
+    },
+    {
+        "UNIT":"ULP TANJUNG UBAN",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":12.874694937,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":14.151406694,
+        "Growth":9.021801045
+    },
+    {
+        "UNIT":"ULP BELAKANG PADANG",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":1.206405104,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":1.181178546,
+        "Growth":-2.1357108191
+    },
+    {
+        "UNIT":"ULP BELAKANG PADANG",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":1.076362148,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":1.180269675,
+        "Growth":8.8037106435
+    },
+    {
+        "UNIT":"ULP BELAKANG PADANG",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":1.212298301,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":1.327957806,
+        "Growth":8.7095768011
+    },
+    {
+        "UNIT":"ULP BELAKANG PADANG",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":1.36918525,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":1.357800698,
+        "Growth":-0.8384553062
+    },
+    {
+        "UNIT":"ULP BELAKANG PADANG",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":1.414041002,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":1.347746979,
+        "Growth":-4.9188775069
+    },
+    {
+        "UNIT":"ULP BELAKANG PADANG",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":1.335930643,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":1.328317355,
+        "Growth":-0.5731527915
+    },
+    {
+        "UNIT":"ULP BELAKANG PADANG",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":1.293418341,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":1.328636348,
+        "Growth":2.6506882077
+    },
+    {
+        "UNIT":"ULP BELAKANG PADANG",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":1.233872163,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":1.351392152,
+        "Growth":8.6962166257
+    },
+    {
+        "UNIT":"ULP BELAKANG PADANG",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":1.179803507,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":1.272707618,
+        "Growth":7.299721451
+    },
+    {
+        "UNIT":"ULP BELAKANG PADANG",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":1.276269278,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":1.342640246,
+        "Growth":4.943317333
+    },
+    {
+        "UNIT":"ULP BELAKANG PADANG",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":1.228603923,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":1.298186752,
+        "Growth":5.3600014707
+    },
+    {
+        "UNIT":"ULP BELAKANG PADANG",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":1.201176603,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":1.308407788,
+        "Growth":8.1955477477
+    },
+    {
+        "UNIT":"ULP TANJUNG BALAI KARIMUN",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":14.45060402,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":15.623473051,
+        "Growth":7.5070954273
+    },
+    {
+        "UNIT":"ULP TANJUNG BALAI KARIMUN",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":13.344653978,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":16.018964,
+        "Growth":16.6946503032
+    },
+    {
+        "UNIT":"ULP TANJUNG BALAI KARIMUN",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":15.327631428,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":17.503246552,
+        "Growth":12.4297804841
+    },
+    {
+        "UNIT":"ULP TANJUNG BALAI KARIMUN",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":15.435943055,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":16.902493462,
+        "Growth":8.676532905
+    },
+    {
+        "UNIT":"ULP TANJUNG BALAI KARIMUN",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":16.562707897,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":17.522305647,
+        "Growth":5.4764354037
+    },
+    {
+        "UNIT":"ULP TANJUNG BALAI KARIMUN",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":15.672808303,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":16.775961827,
+        "Growth":6.5757989639
+    },
+    {
+        "UNIT":"ULP TANJUNG BALAI KARIMUN",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":15.652150863,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":17.221311249,
+        "Growth":9.1117358215
+    },
+    {
+        "UNIT":"ULP TANJUNG BALAI KARIMUN",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":15.925643426,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":17.559672676,
+        "Growth":9.3055792107
+    },
+    {
+        "UNIT":"ULP TANJUNG BALAI KARIMUN",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":15.528918772,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":16.690426152,
+        "Growth":6.9591235683
+    },
+    {
+        "UNIT":"ULP TANJUNG BALAI KARIMUN",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":16.658301279,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":17.012258573,
+        "Growth":2.0806014233
+    },
+    {
+        "UNIT":"ULP TANJUNG BALAI KARIMUN",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":15.957772511,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":16.535211162,
+        "Growth":3.4921758503
+    },
+    {
+        "UNIT":"ULP TANJUNG BALAI KARIMUN",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":16.032337098,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":17.149918945,
+        "Growth":6.5165430261
+    },
+    {
+        "UNIT":"ULP TANJUNG BATU",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":4.671988541,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":4.800058356,
+        "Growth":2.6680887085
+    },
+    {
+        "UNIT":"ULP TANJUNG BATU",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":4.29694825,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":4.803626157,
+        "Growth":10.5478213841
+    },
+    {
+        "UNIT":"ULP TANJUNG BATU",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":4.616511203,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":5.267384239,
+        "Growth":12.356665215
+    },
+    {
+        "UNIT":"ULP TANJUNG BATU",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":5.021166325,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":5.36114701,
+        "Growth":6.3415661679
+    },
+    {
+        "UNIT":"ULP TANJUNG BATU",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":5.14867218,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":5.39052524,
+        "Growth":4.4866325494
+    },
+    {
+        "UNIT":"ULP TANJUNG BATU",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":4.970337652,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":5.194128425,
+        "Growth":4.3085336882
+    },
+    {
+        "UNIT":"ULP TANJUNG BATU",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":5.005835591,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":5.252841311,
+        "Growth":4.7023259485
+    },
+    {
+        "UNIT":"ULP TANJUNG BATU",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":5.080301594,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":5.371166474,
+        "Growth":5.4153018978
+    },
+    {
+        "UNIT":"ULP TANJUNG BATU",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":4.850027811,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":5.17212281,
+        "Growth":6.2275203206
+    },
+    {
+        "UNIT":"ULP TANJUNG BATU",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":5.24087582,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":5.261787768,
+        "Growth":0.3974304727
+    },
+    {
+        "UNIT":"ULP TANJUNG BATU",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":4.874584357,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":5.092468199,
+        "Growth":4.2785508615
+    },
+    {
+        "UNIT":"ULP TANJUNG BATU",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":4.725837647,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":5.26660874,
+        "Growth":10.2679184974
+    },
+    {
+        "UNIT":"ULP DABO SINGKEP",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":3.798524994,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":3.975675439,
+        "Growth":4.4558578213
+    },
+    {
+        "UNIT":"ULP DABO SINGKEP",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":3.459358891,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":3.973973075,
+        "Growth":12.9496142598
+    },
+    {
+        "UNIT":"ULP DABO SINGKEP",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":3.847769844,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":4.404026718,
+        "Growth":12.6306425828
+    },
+    {
+        "UNIT":"ULP DABO SINGKEP",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":4.017888844,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":4.406597251,
+        "Growth":8.8210559046
+    },
+    {
+        "UNIT":"ULP DABO SINGKEP",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":4.178838662,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":4.46032156,
+        "Growth":6.3108207382
+    },
+    {
+        "UNIT":"ULP DABO SINGKEP",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":4.043480199,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":4.333342489,
+        "Growth":6.6891156362
+    },
+    {
+        "UNIT":"ULP DABO SINGKEP",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":4.054479436,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":4.344238013,
+        "Growth":6.6699516954
+    },
+    {
+        "UNIT":"ULP DABO SINGKEP",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":4.314876641,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":4.582769067,
+        "Growth":5.8456453311
+    },
+    {
+        "UNIT":"ULP DABO SINGKEP",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":4.096172458,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":4.389033097,
+        "Growth":6.6725548094
+    },
+    {
+        "UNIT":"ULP DABO SINGKEP",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":4.279697059,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":4.598639181,
+        "Growth":6.9355761443
+    },
+    {
+        "UNIT":"ULP DABO SINGKEP",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":3.828406069,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":4.4783509,
+        "Growth":14.5130394092
+    },
+    {
+        "UNIT":"ULP DABO SINGKEP",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":4.042275272,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":4.623935042,
+        "Growth":12.5793239896
+    },
+    {
+        "UNIT":"ULP NATUNA",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":4.670674596,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":5.288844325,
+        "Growth":11.6881815953
+    },
+    {
+        "UNIT":"ULP NATUNA",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":4.31401444,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":5.18376219,
+        "Growth":16.7783111594
+    },
+    {
+        "UNIT":"ULP NATUNA",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":4.792708616,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":5.754964406,
+        "Growth":16.7204472889
+    },
+    {
+        "UNIT":"ULP NATUNA",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":5.190295996,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":5.648667357,
+        "Growth":8.1146814289
+    },
+    {
+        "UNIT":"ULP NATUNA",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":5.414280909,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":6.01062138,
+        "Growth":9.9214446111
+    },
+    {
+        "UNIT":"ULP NATUNA",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":5.253887654,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":5.601301964,
+        "Growth":6.2023849497
+    },
+    {
+        "UNIT":"ULP NATUNA",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":5.080686073,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":5.737681909,
+        "Growth":11.4505447744
+    },
+    {
+        "UNIT":"ULP NATUNA",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":5.349520637,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":5.765819459,
+        "Growth":7.2201154573
+    },
+    {
+        "UNIT":"ULP NATUNA",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":5.072719189,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":5.59573178,
+        "Growth":9.3466343914
+    },
+    {
+        "UNIT":"ULP NATUNA",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":5.481776263,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":5.918182102,
+        "Growth":7.3739846371
+    },
+    {
+        "UNIT":"ULP NATUNA",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":5.263207839,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":5.756320198,
+        "Growth":8.5664511709
+    },
+    {
+        "UNIT":"ULP NATUNA",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":5.557221027,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":5.724361193,
+        "Growth":2.9198046798
+    },
+    {
+        "UNIT":"ULP TANJUNGPINANG KOTA",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":13.083974554,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":13.280955714,
+        "Growth":1.483185128
+    },
+    {
+        "UNIT":"ULP TANJUNGPINANG KOTA",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":11.901526021,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":13.837146414,
+        "Growth":13.9885807022
+    },
+    {
+        "UNIT":"ULP TANJUNGPINANG KOTA",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":12.886090151,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":14.894522627,
+        "Growth":13.4843695652
+    },
+    {
+        "UNIT":"ULP TANJUNGPINANG KOTA",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":13.628319605,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":14.643581752,
+        "Growth":6.9331544986
+    },
+    {
+        "UNIT":"ULP TANJUNGPINANG KOTA",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":15.052034205,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":14.92149888,
+        "Growth":-0.8748137573
+    },
+    {
+        "UNIT":"ULP TANJUNGPINANG KOTA",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":14.476347032,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":14.52759068,
+        "Growth":0.3527332861
+    },
+    {
+        "UNIT":"ULP TANJUNGPINANG KOTA",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":14.28117464,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":15.304007906,
+        "Growth":6.6834339886
+    },
+    {
+        "UNIT":"ULP TANJUNGPINANG KOTA",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":14.826063833,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":15.398184812,
+        "Growth":3.7155092369
+    },
+    {
+        "UNIT":"ULP TANJUNGPINANG KOTA",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":14.449170144,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":14.628948498,
+        "Growth":1.2289219148
+    },
+    {
+        "UNIT":"ULP TANJUNGPINANG KOTA",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":14.976255209,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":14.973363879,
+        "Growth":-0.0193098226
+    },
+    {
+        "UNIT":"ULP TANJUNGPINANG KOTA",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":14.03266293,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":14.503727141,
+        "Growth":3.2478838468
+    },
+    {
+        "UNIT":"ULP TANJUNGPINANG KOTA",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":13.884996253,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":14.834929095,
+        "Growth":6.4033527624
+    },
+    {
+        "UNIT":"ULP ANAMBAS",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":2.432429587,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":2.714674379,
+        "Growth":10.3970035664
+    },
+    {
+        "UNIT":"ULP ANAMBAS",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":2.253184129,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":2.704733643,
+        "Growth":16.6947867554
+    },
+    {
+        "UNIT":"ULP ANAMBAS",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":2.494039163,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":3.038350397,
+        "Growth":17.9146959
+    },
+    {
+        "UNIT":"ULP ANAMBAS",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":2.741510184,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":3.091626554,
+        "Growth":11.3246656375
+    },
+    {
+        "UNIT":"ULP ANAMBAS",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":3.061447843,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":3.360418908,
+        "Growth":8.8968391497
+    },
+    {
+        "UNIT":"ULP ANAMBAS",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":2.984337864,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":3.165809257,
+        "Growth":5.7322276318
+    },
+    {
+        "UNIT":"ULP ANAMBAS",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":2.835943281,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":3.071831353,
+        "Growth":7.6790697435
+    },
+    {
+        "UNIT":"ULP ANAMBAS",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":3.011471821,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":3.162048853,
+        "Growth":4.7620084003
+    },
+    {
+        "UNIT":"ULP ANAMBAS",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":2.916788004,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":3.063546358,
+        "Growth":4.7904727675
+    },
+    {
+        "UNIT":"ULP ANAMBAS",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":3.106120165,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":3.226783588,
+        "Growth":3.7394333927
+    },
+    {
+        "UNIT":"ULP ANAMBAS",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":2.8987146,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":3.152361693,
+        "Growth":8.046256036
+    },
+    {
+        "UNIT":"ULP ANAMBAS",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":2.932037561,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":3.104394451,
+        "Growth":5.5520293159
+    },
+    {
+        "UNIT":"ULP RENGAT KOTA",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":14.835818221,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":15.203414466,
+        "Growth":2.417853212
+    },
+    {
+        "UNIT":"ULP RENGAT KOTA",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":13.896925416,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":14.813051229,
+        "Growth":6.1845854634
+    },
+    {
+        "UNIT":"ULP RENGAT KOTA",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":15.507123565,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":16.845455016,
+        "Growth":7.9447628439
+    },
+    {
+        "UNIT":"ULP RENGAT KOTA",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":15.219672016,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":15.926664952,
+        "Growth":4.4390519806
+    },
+    {
+        "UNIT":"ULP RENGAT KOTA",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":16.170958303,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":16.722260501,
+        "Growth":3.2968162287
+    },
+    {
+        "UNIT":"ULP RENGAT KOTA",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":15.747008913,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":15.967561322,
+        "Growth":1.3812529324
+    },
+    {
+        "UNIT":"ULP RENGAT KOTA",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":16.08185077,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":16.750683883,
+        "Growth":3.9928704862
+    },
+    {
+        "UNIT":"ULP RENGAT KOTA",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":16.986371821,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":17.159466297,
+        "Growth":1.008740441
+    },
+    {
+        "UNIT":"ULP RENGAT KOTA",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":15.49497046,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":16.726235877,
+        "Growth":7.3612821561
+    },
+    {
+        "UNIT":"ULP RENGAT KOTA",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":16.456382298,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":17.372711003,
+        "Growth":5.2745291443
+    },
+    {
+        "UNIT":"ULP RENGAT KOTA",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":15.693336559,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":16.571387781,
+        "Growth":5.2985980028
+    },
+    {
+        "UNIT":"ULP RENGAT KOTA",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":15.643176124,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":17.410142719,
+        "Growth":10.1490643903
+    },
+    {
+        "UNIT":"ULP TALUK KUANTAN",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":15.647691243,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":16.041634746,
+        "Growth":2.4557565936
+    },
+    {
+        "UNIT":"ULP TALUK KUANTAN",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":14.967392262,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":15.790056959,
+        "Growth":5.2100172858
+    },
+    {
+        "UNIT":"ULP TALUK KUANTAN",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":15.916431145,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":17.305845641,
+        "Growth":8.0285848194
+    },
+    {
+        "UNIT":"ULP TALUK KUANTAN",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":16.917654216,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":17.155689671,
+        "Growth":1.3875015203
+    },
+    {
+        "UNIT":"ULP TALUK KUANTAN",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":17.05067975,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":17.522797028,
+        "Growth":2.6943031826
+    },
+    {
+        "UNIT":"ULP TALUK KUANTAN",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":16.408703278,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":17.002767577,
+        "Growth":3.4939270699
+    },
+    {
+        "UNIT":"ULP TALUK KUANTAN",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":16.965308489,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":17.754240903,
+        "Growth":4.4436279665
+    },
+    {
+        "UNIT":"ULP TALUK KUANTAN",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":17.203186011,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":17.982561437,
+        "Growth":4.3340623566
+    },
+    {
+        "UNIT":"ULP TALUK KUANTAN",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":16.635363395,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":17.318072639,
+        "Growth":3.9421779677
+    },
+    {
+        "UNIT":"ULP TALUK KUANTAN",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":17.466611733,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":18.138453657,
+        "Growth":3.7039647188
+    },
+    {
+        "UNIT":"ULP TALUK KUANTAN",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":16.424363667,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":17.691429336,
+        "Growth":7.1620310882
+    },
+    {
+        "UNIT":"ULP TALUK KUANTAN",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":16.677364839,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":18.820092521,
+        "Growth":11.3853195972
+    },
+    {
+        "UNIT":"ULP KUALA ENOK",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":4.740160407,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":4.879083887,
+        "Growth":2.8473271462
+    },
+    {
+        "UNIT":"ULP KUALA ENOK",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":4.4474547,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":4.704344941,
+        "Growth":5.4607016327
+    },
+    {
+        "UNIT":"ULP KUALA ENOK",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":4.873445081,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":5.372758069,
+        "Growth":9.2934202804
+    },
+    {
+        "UNIT":"ULP KUALA ENOK",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":5.168601934,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":5.363690515,
+        "Growth":3.6372080092
+    },
+    {
+        "UNIT":"ULP KUALA ENOK",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":5.100803993,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":5.384887589,
+        "Growth":5.2755715195
+    },
+    {
+        "UNIT":"ULP KUALA ENOK",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":4.970176831,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":5.222069995,
+        "Growth":4.8236267274
+    },
+    {
+        "UNIT":"ULP KUALA ENOK",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":5.040501643,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":5.362702687,
+        "Growth":6.0081839849
+    },
+    {
+        "UNIT":"ULP KUALA ENOK",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":5.171308103,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":5.454011018,
+        "Growth":5.1833946442
+    },
+    {
+        "UNIT":"ULP KUALA ENOK",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":4.944208168,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":5.284050945,
+        "Growth":6.4314818411
+    },
+    {
+        "UNIT":"ULP KUALA ENOK",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":5.34753608,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":5.458910353,
+        "Growth":2.0402290164
+    },
+    {
+        "UNIT":"ULP KUALA ENOK",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":4.74593856,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":5.278840604,
+        "Growth":10.0950584414
+    },
+    {
+        "UNIT":"ULP KUALA ENOK",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":4.873505326,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":5.539398698,
+        "Growth":12.0210406996
+    },
+    {
+        "UNIT":"ULP TEMBILAHAN",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":13.508855915,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":14.217516545,
+        "Growth":4.9844192392
+    },
+    {
+        "UNIT":"ULP TEMBILAHAN",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":12.569238426,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":14.102904142,
+        "Growth":10.8748219555
+    },
+    {
+        "UNIT":"ULP TEMBILAHAN",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":13.868579559,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":15.944146679,
+        "Growth":13.0177372411
+    },
+    {
+        "UNIT":"ULP TEMBILAHAN",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":14.460494405,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":15.466021474,
+        "Growth":6.5015238126
+    },
+    {
+        "UNIT":"ULP TEMBILAHAN",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":14.926338575,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":15.842077587,
+        "Growth":5.7804224665
+    },
+    {
+        "UNIT":"ULP TEMBILAHAN",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":14.542555645,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":15.247653869,
+        "Growth":4.6243063363
+    },
+    {
+        "UNIT":"ULP TEMBILAHAN",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":14.750662267,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":15.705360037,
+        "Growth":6.0788021908
+    },
+    {
+        "UNIT":"ULP TEMBILAHAN",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":14.967952064,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":16.126822257,
+        "Growth":7.18597982
+    },
+    {
+        "UNIT":"ULP TEMBILAHAN",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":14.486093753,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":15.571029686,
+        "Growth":6.9676569558
+    },
+    {
+        "UNIT":"ULP TEMBILAHAN",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":15.39751735,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":15.942712341,
+        "Growth":3.4197129029
+    },
+    {
+        "UNIT":"ULP TEMBILAHAN",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":14.342810329,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":15.357331508,
+        "Growth":6.6061032704
+    },
+    {
+        "UNIT":"ULP TEMBILAHAN",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":14.391111774,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":15.858828206,
+        "Growth":9.2548857516
+    },
+    {
+        "UNIT":"ULP AIR MOLEK",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":7.041751827,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":11.820001002,
+        "Growth":40.425116497
+    },
+    {
+        "UNIT":"ULP AIR MOLEK",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":8.439882298,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":11.27161662,
+        "Growth":25.1226990543
+    },
+    {
+        "UNIT":"ULP AIR MOLEK",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":11.903916176,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":12.773255997,
+        "Growth":6.8059375088
+    },
+    {
+        "UNIT":"ULP AIR MOLEK",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":12.052001423,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":12.106776134,
+        "Growth":0.4524301961
+    },
+    {
+        "UNIT":"ULP AIR MOLEK",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":12.850329119,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":12.442598205,
+        "Growth":-3.2768952857
+    },
+    {
+        "UNIT":"ULP AIR MOLEK",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":12.406056124,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":11.975132216,
+        "Growth":-3.5984897722
+    },
+    {
+        "UNIT":"ULP AIR MOLEK",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":12.472092086,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":12.704457513,
+        "Growth":1.8290070769
+    },
+    {
+        "UNIT":"ULP AIR MOLEK",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":12.645069756,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":12.675074521,
+        "Growth":0.2367225924
+    },
+    {
+        "UNIT":"ULP AIR MOLEK",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":12.11690926,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":12.581895766,
+        "Growth":3.6956792096
+    },
+    {
+        "UNIT":"ULP AIR MOLEK",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":12.472224619,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":12.946295327,
+        "Growth":3.6618252251
+    },
+    {
+        "UNIT":"ULP AIR MOLEK",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":11.83030266,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":12.338613664,
+        "Growth":4.1196767955
+    },
+    {
+        "UNIT":"ULP AIR MOLEK",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":12.183980718,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":13.02624839,
+        "Growth":6.465926695
+    },
+    {
+        "UNIT":"UP3 RENGAT",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":55.774277613,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":62.161650646,
+        "Growth":10.2754237808
+    },
+    {
+        "UNIT":"UP3 RENGAT",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":54.320893102,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":60.681973891,
+        "Growth":10.4826530535
+    },
+    {
+        "UNIT":"UP3 RENGAT",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":62.069495526,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":68.241461402,
+        "Growth":9.0443049565
+    },
+    {
+        "UNIT":"UP3 RENGAT",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":63.818423994,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":66.018842746,
+        "Growth":3.3330162428
+    },
+    {
+        "UNIT":"UP3 RENGAT",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":66.09910974,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":67.91462091,
+        "Growth":2.6732258027
+    },
+    {
+        "UNIT":"UP3 RENGAT",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":64.074500791,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":65.415184979,
+        "Growth":2.049499957
+    },
+    {
+        "UNIT":"UP3 RENGAT",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":65.310415255,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":68.277445023,
+        "Growth":4.34554891
+    },
+    {
+        "UNIT":"UP3 RENGAT",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":66.973887755,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":69.39793553,
+        "Growth":3.4929681358
+    },
+    {
+        "UNIT":"UP3 RENGAT",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":63.677545036,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":67.481284913,
+        "Growth":5.6367330318
+    },
+    {
+        "UNIT":"UP3 RENGAT",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":67.14027208,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":69.859082681,
+        "Growth":3.8918498449
+    },
+    {
+        "UNIT":"UP3 RENGAT",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":63.036751775,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":67.237602893,
+        "Growth":6.2477704993
+    },
+    {
+        "UNIT":"UP3 RENGAT",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":63.769138781,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":70.654710534,
+        "Growth":9.7453824394
+    },
+    {
+        "UNIT":"UIDRKR",
+        "BULAN_x":"2023-01",
+        "Real Bulanan_x":733.375538045,
+        "Nama Bulan":"JAN",
+        "BULAN_y":"2024-01",
+        "Real Bulanan_y":788.732605906,
+        "Growth":7.0184835071
+    },
+    {
+        "UNIT":"UIDRKR",
+        "BULAN_x":"2023-02",
+        "Real Bulanan_x":680.763791793,
+        "Nama Bulan":"FEB",
+        "BULAN_y":"2024-02",
+        "Real Bulanan_y":763.398501348,
+        "Growth":10.8245836754
+    },
+    {
+        "UNIT":"UIDRKR",
+        "BULAN_x":"2023-03",
+        "Real Bulanan_x":754.09633682,
+        "Nama Bulan":"MAR",
+        "BULAN_y":"2024-03",
+        "Real Bulanan_y":842.539810294,
+        "Growth":10.4972456368
+    },
+    {
+        "UNIT":"UIDRKR",
+        "BULAN_x":"2023-04",
+        "Real Bulanan_x":752.771735565,
+        "Nama Bulan":"APR",
+        "BULAN_y":"2024-04",
+        "Real Bulanan_y":803.583316073,
+        "Growth":6.3231253675
+    },
+    {
+        "UNIT":"UIDRKR",
+        "BULAN_x":"2023-05",
+        "Real Bulanan_x":808.447273296,
+        "Nama Bulan":"MEI",
+        "BULAN_y":"2024-05",
+        "Real Bulanan_y":847.427530713,
+        "Growth":4.5998337326
+    },
+    {
+        "UNIT":"UIDRKR",
+        "BULAN_x":"2023-06",
+        "Real Bulanan_x":780.731201624,
+        "Nama Bulan":"JUN",
+        "BULAN_y":"2024-06",
+        "Real Bulanan_y":798.470197844,
+        "Growth":2.2216228317
+    },
+    {
+        "UNIT":"UIDRKR",
+        "BULAN_x":"2023-07",
+        "Real Bulanan_x":773.097306184,
+        "Nama Bulan":"JUL",
+        "BULAN_y":"2024-07",
+        "Real Bulanan_y":817.7249744,
+        "Growth":5.4575400793
+    },
+    {
+        "UNIT":"UIDRKR",
+        "BULAN_x":"2023-08",
+        "Real Bulanan_x":758.275655092,
+        "Nama Bulan":"AGU",
+        "BULAN_y":"2024-08",
+        "Real Bulanan_y":852.535230742,
+        "Growth":11.0563847981
+    },
+    {
+        "UNIT":"UIDRKR",
+        "BULAN_x":"2023-09",
+        "Real Bulanan_x":765.048774824,
+        "Nama Bulan":"SEP",
+        "BULAN_y":"2024-09",
+        "Real Bulanan_y":830.356240799,
+        "Growth":7.8649936938
+    },
+    {
+        "UNIT":"UIDRKR",
+        "BULAN_x":"2023-10",
+        "Real Bulanan_x":823.179765002,
+        "Nama Bulan":"OKT",
+        "BULAN_y":"2024-10",
+        "Real Bulanan_y":854.726002575,
+        "Growth":3.6908012016
+    },
+    {
+        "UNIT":"UIDRKR",
+        "BULAN_x":"2023-11",
+        "Real Bulanan_x":786.71037799,
+        "Nama Bulan":"NOV",
+        "BULAN_y":"2024-11",
+        "Real Bulanan_y":830.101903503,
+        "Growth":5.2272528626
+    },
+    {
+        "UNIT":"UIDRKR",
+        "BULAN_x":"2023-12",
+        "Real Bulanan_x":795.660823451,
+        "Nama Bulan":"DES",
+        "BULAN_y":"2024-12",
+        "Real Bulanan_y":862.153645739,
+        "Growth":7.7124098027
+    }
+]

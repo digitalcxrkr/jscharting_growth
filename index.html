@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSCharting - Line & Growth YoY (Bar di Belakang)</title>
+    <script src="https://code.jscharting.com/latest/jscharting.js"></script>
+</head>
+<body>
+    <div id="chartDiv" style="width: 800px; height: 500px;"></div>
+
+    <script>
+        // Data Realisasi
+        const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+        const data2023 = [100, 120, 150, 180, 210, 240, 270, 300, 330, 360, 390, 420];
+        const data2024 = [110, 130, 160, 200, 250, 280, 310, 340, 370, 400, 430, 460];
+
+        // Hitung Growth YoY
+        const growthYoY = data2024.map((val, index) => ((val - data2023[index]) / data2023[index]) * 100);
+
+        // inisiasi menggunakan data Real
+        async function fetchData() {
+        try {
+            // Ambil data dari file JSON
+            const response = await fetch('data_compare_YoY.json');
+            const jsonData = await response.json();  // Harus pakai await
+
+            // Filter berdasarkan UNIT = 'UIDRKR'
+            const filteredData = jsonData.filter(item => item.UNIT === 'UIDRKR');
+
+            // Mapping ke format yang diinginkan
+            const data = filteredData.map(item => ({
+                name: item["Nama Bulan"],
+                realisasi2024: item["Real Bulanan_y"],  // Akses harus item.Bulanan_y
+                realisasi2023: item["Real Bulanan_x"],  // Akses harus item.Bulanan_x
+                growth: item.Growth
+            }));
+
+            console.log(data); // Debugging output
+            renderChart(data);
+
+        } catch (error) {
+            console.error("Error fetching data:", error);
+        }
+    }
+
+    // Panggil fungsi
+    
+
+    function renderChart(data) {
+        
+        // Konfigurasi Chart
+        JSC.chart('chartDiv', {
+            debug: true,
+            type: 'line',
+            title_label_text: 'Realisasi 2024 vs 2023 & Growth YoY',
+            legend: {
+                    template: '%icon,%name',
+                    position: 'inside top right',
+                    offset: '0,-25',
+                    reversed: true
+            },
+            
+            yAxis: [
+                {
+                    id: 'y1',
+                    label_text: 'Realisasi'
+                },
+                {
+                    id: 'y2',
+                    label_text: 'Growth YoY (%)',
+                    
+                    orientation: 'right'
+                }
+            ],
+            series: [
+                {
+                    name: 'Growth YoY',
+                    type: 'column',
+                    yAxis: 'y2',
+                    opacity: 0.5, // Transparan agar tidak menutupi line chart
+                    zIndex: -1, // Menempatkan bar di belakang line chart
+                    points: data.map(item => ({ x: item.name, y: item.growth })),
+                    
+                },
+                {
+                    name: 'Realisasi 2023',
+                    type: 'line',
+                    defaultPoint_marker: { type: 'circle' },
+                    line_width: 2,
+                    points: data.map(item => ({ x: item.name, y: item.realisasi2023 }))
+                },
+                {
+                    name: 'Realisasi 2024',
+                    type: 'line',
+                    defaultPoint_marker: { type: 'square' },
+                    line_width: 2,
+                    points: data.map(item => ({ x: item.name, y: item.realisasi2024 }))
+                }
+            ]
+        });
+    }
+    fetchData();
+    </script>
+</body>
+</html>
