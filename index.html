@@ -1,23 +1,61 @@
 <!DOCTYPE html>
-<html lang="en">
+<html></html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JSCharting - Line & Growth YoY (Bar di Belakang)</title>
+    
+    <title>REALISASI 2024 vs 2023 & GROWTH YoY</title>
     <script src="https://code.jscharting.com/latest/jscharting.js"></script>
-</head>
-<body>
-    <div id="chartDiv" style="width: 800px; height: 500px;"></div>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        h2 {
+            color: #333;
+            font-size: 24px;
+            margin: 20px;
+        }
+        #chartContainer {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        #chartDiv {
+            width: 100%;
+            height: auto;
+            
+            min-height: 100px;
+            max-height: 700px;
+            margin: 0 auto;
+            margin-top: 20px;
+        }
+        @media only screen and (max-width: 600px) {
+            #chartDiv {
+                height: 100px;
+            }
+        }
+        @media only screen and (min-width: 601px) and (max-width: 1024px) {
+            #chartDiv {
+                height: 300px;
+            }
+        }
+        @media only screen and (min-width: 1025px) {
+            #chartDiv {
+                height: 500px;
+            }
+        }
+        
+    </style>
+
+
 
     <script>
-        // Data Realisasi
-        const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
-        const data2023 = [100, 120, 150, 180, 210, 240, 270, 300, 330, 360, 390, 420];
-        const data2024 = [110, 130, 160, 200, 250, 280, 310, 340, 370, 400, 430, 460];
-
-        // Hitung Growth YoY
-        const growthYoY = data2024.map((val, index) => ((val - data2023[index]) / data2023[index]) * 100);
-
+ 
         // inisiasi menggunakan data Real
         async function fetchData() {
         try {
@@ -53,7 +91,13 @@
         JSC.chart('chartDiv', {
             debug: true,
             type: 'line',
-            title_label_text: 'Realisasi 2024 vs 2023 & Growth YoY',
+            title_label: {
+                    text: `REALISASI DAN GROWTH PENJUALAN`,
+                    style_fontSize: 17,
+                    style_fontWeight: 'bold',
+                    align: 'center',
+                    margin_bottom: 30
+                },
             legend: {
                     template: '%icon,%name',
                     position: 'inside top right',
@@ -102,5 +146,9 @@
     }
     fetchData();
     </script>
+</head>
+<body>
+    <div id="chartContainer">
+        <div id="chartDiv"></div>
 </body>
 </html>
